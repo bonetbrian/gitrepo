@@ -1,0 +1,26 @@
+HEY! uhhh this is how you use this:
+
+
+Usage Instructions:
+Step 1: Save the Script
+Save the above script in a file named youtube_downloader.py.
+
+Step 2: Run the Script
+Open a terminal or command prompt.
+Navigate to the directory where youtube_downloader.py is saved.
+Run the script using the following command:
+python youtube_downloader.py
+
+Step 3: Enter YouTube Video URL
+When prompted, enter the URL of the YouTube video you want to download and press Enter.
+
+Step 4: Select Save Directory
+A file dialog will open, allowing you to select the directory where you want to save the downloaded video. Choose your desired folder and click “OK”.
+
+Step 5: Download the Video
+The script will download the highest resolution MP4 video available and save it to the selected directory. If the download is successful, you’ll see a message saying “Video downloaded successfully!”.
+
+Troubleshooting
+No Video Downloaded: Ensure the YouTube URL is correct and the video is accessible.
+Invalid Save Location: Make sure you select a valid directory to save the video.
+Errors: If you encounter any errors, check the terminal output for error messages and ensure all prerequisites are installed correctly.
